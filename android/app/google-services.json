@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "398753561762",
+    "project_id": "hydrowatch-4d86a",
+    "storage_bucket": "hydrowatch-4d86a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398753561762:android:ad4c46d9f1a43940e62bfb",
+        "android_client_info": {
+          "package_name": "com.gustavo.hydrowatch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDor_Zcj6bxqJLLUQ1KHf2B5OIftgM954"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398753561762:android:ef80120a69172580e62bfb",
+        "android_client_info": {
+          "package_name": "com.hydrowatch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDor_Zcj6bxqJLLUQ1KHf2B5OIftgM954"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
